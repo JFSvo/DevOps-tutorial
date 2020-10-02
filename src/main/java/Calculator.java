@@ -19,7 +19,7 @@ public class Calculator{
     }
 
     public double squareRoot(double x){
-        return sqrt(x);
+        return Math.sqrt(x);
     }
 
     public double power(double x, int power){
